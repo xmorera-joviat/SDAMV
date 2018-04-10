@@ -1,2 +1,2 @@
 # SDAMV
-Projecte per proves de SDAMV :v
+Projecte per proves de SDAMV
