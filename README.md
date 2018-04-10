@@ -1,3 +1,2 @@
 # SDAMV
-Projecte per proves de SDAMV :v
-Xavier wapo
+Projecte per proves de SDAMV
